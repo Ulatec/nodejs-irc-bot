@@ -1,9 +1,9 @@
-var channel = "#markstestchannel";
+var channel = "";
 var admins = [];
 var config = {
 	channels: [channel],
 	server: "irc.swiftirc.net",
-	botName: "ballsbot"
+	botName: ""
 };
 var delayedSeconds = 9;
 var bracketURL = "http://niceme.me/";
